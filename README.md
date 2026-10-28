@@ -28,3 +28,8 @@ Un'unica pagina HTML, `index.html`: scheletro, muscoli e organi vengono generati
 
 ## Avvertenze
 È uno strumento di studio. Le forme sono schematiche: posizione, rapporti e livelli degli organi sono curati, i dettagli morfologici no. I testi riassumono appunti di anatomia veterinaria, integrati con i testi di riferimento dove erano lacunosi o incoerenti, e non sostituiscono i manuali né la dissezione.
+
+## Licenza
+© 2026 Federico Cattelan. L'atlante (pagina, testi e immagini) è distribuito con licenza [Creative Commons Attribuzione - Non commerciale 4.0 Internazionale (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.it): si può usare, condividere e modificare per scopi non commerciali, citando l'autore, indicando la licenza e segnalando le eventuali modifiche. Per qualsiasi uso commerciale serve il permesso dell'autore.
+
+Il testo legale è nel file [LICENSE](LICENSE); esiste anche la [traduzione ufficiale italiana](https://creativecommons.org/licenses/by-nc/4.0/legalcode.it). Le librerie caricate dalla pagina (Three.js, Tailwind CSS, Font Awesome) hanno le proprie licenze.
